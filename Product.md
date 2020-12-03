@@ -11,8 +11,6 @@
 ## [需求分析](Requirement/Analysis/README.md)
 ### [KANO 模型](Requirement/Models/KANO.md)
 
-
-
 # [产品分析](ProductAnalysis/README.md)
 ## 指标
 
@@ -20,6 +18,8 @@
 ## 优惠券设计
 
 ## 用户研究
+请参考 https://github.com/SC-CS-KS/KS-GrowthHacker
+
 ## 用户界面设计
 ## 交互设计
 ## 视觉设计
